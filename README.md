@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with ... Intellji configuration of wsl2
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Personal Website](https://kirubeltadesse.github.io/)
-- ⚡ Fun fact: ... love soccer and food 😋
+- ⚡ Fun fact: ... love soccer and praying 🙏🏿
 
